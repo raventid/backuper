@@ -1,2 +1,2 @@
 # backuper
-Not enterprise class backup tool
+backup tool

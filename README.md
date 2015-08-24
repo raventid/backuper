@@ -1,3 +1,3 @@
 # backuper
 
-backup tool
+backup cli tool

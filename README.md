@@ -1,3 +1,3 @@
 # backuper
 
-backup cli tool / ruby
+backup cli tool / ruby2
